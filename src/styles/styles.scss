@@ -24,4 +24,14 @@ img { /* stylelint-disable-line */
   max-width: 100%;
 }
 
+header {
+  background-image: url("../../img/header.jpg");
+  min-width:1200px;
+  min-height:800px;
+  margin: auto;
+}
+
+h1 {
+  margin: auto;
+}
 // TODO import
