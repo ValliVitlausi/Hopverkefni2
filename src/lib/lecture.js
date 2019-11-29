@@ -158,7 +158,7 @@ export default class Lecture {
     const slug = qs.get('slug');
 
     if (!slug || slug === '') {
-      this.setError('Engin fyrirlestur skilgreindur');
+      this.setError('Enginn fyrirlestur skilgreindur');
       return;
     }
 

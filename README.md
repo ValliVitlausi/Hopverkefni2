@@ -1,3 +1,40 @@
+# Hópverkefni 2 2019
+
+## Keyrsla
+
+Til þess að keyra vefsíðuna þarf að skrifa eftirfarandi í console hjá sér:
+```
+npm install
+
+npm run dev
+```
+
+## Uppsetning verkefnis
+
+Verkefninu er skipt í: tvær html síður (sem eru ekki í neinni sérstakri möppu)  `index.html` og `fyrirlestur.html`en sú seinni breytist alltaf eftir því hvaða fyrirlestur er valinn. CSS-ið er að finna undir möppunni src/styles og er því skipt í tvær scss skrár, `config.scss`og `styles.css`. JavaScript-inu er svo skipt í sex mismunandi skrár, fimm þeirra eru í möppunni src/lib en `index.js` er bara í src möppunni. Skrárnar halda utan um mismunandi föll eins og til dæmis hjálparföll er að finna í `helpers.js`. 
+*Rollup* og *babel* er einnig sett upp í verkefninu.
+
+## Hópmeðlimir 
+
+Við sem unnum að þessu verkefni heitum:
+
+**Júlía Jakobsdóttir:**
+
+juj7@hi.is,
+
+*dæmatímahópur* : 2
+
+
+**Valgeir Sigurðsson:**
+
+vas32@hi.is,
+
+*dæmatímahópur* : 2
+
+## Takk fyrir veturinn og gleðileg jól! :christmas_tree: 
+
+
+
 # Hópverkefni 2
 
 Verkefnið felst í því að smíða prótótýpu af fyrirlestravef fyrir vefforritun. Gefin eru gögn sem unnin eru uppúr námsefni vetrarins.
