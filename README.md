@@ -19,16 +19,12 @@ Verkefninu er skipt í: tvær html síður (sem eru ekki í neinni sérstakri m�
 Við sem unnum að þessu verkefni heitum:
 
 **Júlía Jakobsdóttir:**
-
 juj7@hi.is,
-
 *dæmatímahópur* : 2
 
 
 **Valgeir Sigurðsson:**
-
 vas32@hi.is,
-
 *dæmatímahópur* : 2
 
 ## Takk fyrir veturinn og gleðileg jól! :christmas_tree: 
