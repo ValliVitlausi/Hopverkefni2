@@ -1,4 +1,4 @@
-# Hópverkefni 2 2019
+# Hópverkefni 2 
 
 ## Keyrsla
 
